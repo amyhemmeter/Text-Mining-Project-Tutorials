@@ -1,2 +1,1 @@
-# Text-Mining-Project-Tutorials
-Top TFIDF terms, sentiment analysis, and clustering in Python
+From a project comparing pre-first term and pre-second term presidential debates from Clinton, Bush and Obama with document clustering, sentiment analyis, and term-frequency inverse-document-frequency values (TFIDF). Jupyter Notebooks have been updated with detailed comments about how the code works with these examples, meant to be generalizable to other projects with these methods. 
